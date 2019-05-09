@@ -1,6 +1,6 @@
-# Gatsby Deck
+# Good companies manage Engineering. Great companies manage Product. – Thomas Schranz
 
-Create presentations using Gatsby & React.
+Lolcat Ventures is a Product Management boutique consulting firm. We upgrade teams and deliver great products through coaching, working hand-on or acting as a sparring partner for CTOs and CPOs.
 
 ---
 
@@ -20,6 +20,6 @@ Create presentations using Gatsby & React.
 
 Here's the source of the first slide:
 
-    # Gatsby Deck
+    # Good companies manage Engineering. Great companies manage Product. – Thomas Schranz
 
-    Create presentations using Gatsby & React.
+    Lolcat Ventures is a Product Management boutique consulting firm. We upgrade teams and deliver great products through coaching, working hand-on or acting as a sparring partner for CTOs and CPOs.
