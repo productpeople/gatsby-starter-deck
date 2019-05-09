@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     name: `Lolcat Ventures`,
     title: `Product Management Consultancy`,
-    date: `Berlin`,
+    date: `hello@lolcat.io`,
   },
   plugins: [
     `gatsby-plugin-layout`,
