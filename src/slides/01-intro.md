@@ -1,7 +1,7 @@
-# Good companies manage Engineering.
-# Great companies manage Product.
+## Good companies manage Engineering.
+## Great companies manage Product.
 
-### Lolcat Ventures is a Product Management boutique consulting firm. We upgrade teams and deliver great products through coaching, working hand-on or as a sparring partner for CTOs and CPOs.
+Lolcat Ventures is a Product Management boutique consulting firm. We upgrade teams and deliver great products through coaching, working hand-on or as a sparring partner for CTOs and CPOs.
 
 ---
 
