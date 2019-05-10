@@ -6,7 +6,6 @@ Lolcat Ventures is a Product Management boutique consulting firm. We set up or u
 
 ---
 
-#  A great product manager has the brain of an engineer, the heart of a designer, and the speech of a diplomat.
-> <cite>Deep Nishar</cite>
+#  A great product manager has the brain of an engineer, the heart of a designer, and the speech of a diplomat.- Deep Nishar
 
 [🚀 APPLY 🚀](https://lolcatvc.typeform.com/to/BN5gco)
