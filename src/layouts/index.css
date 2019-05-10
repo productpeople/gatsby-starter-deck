@@ -36,7 +36,7 @@ html {
 
 #slide {
   display: flex;
-  overflow: hidden;
+  
   justify-content: center;
   align-items: center;
 
@@ -51,7 +51,7 @@ html {
 
 #slide ul {
     text-align: left;
-    margin-left: 30px;
+    margin-left: 20px;
 }
 
 a {
