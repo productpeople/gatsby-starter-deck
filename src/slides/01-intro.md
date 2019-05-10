@@ -5,11 +5,9 @@ Lolcat Ventures is a Product Management boutique consulting firm. We upgrade tea
 
 ---
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+> A great product manager has the brain of an engineer, the heart of a 
+> designer, and the speech of a diplomat.
+> <cite>Deep Nishar</cite>
 
 ---
 
