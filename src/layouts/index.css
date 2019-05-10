@@ -36,7 +36,7 @@ html {
 
 #slide {
   display: flex;
-  
+
   justify-content: center;
   align-items: center;
 
@@ -120,7 +120,7 @@ a:hover {
 }
 
 h1 {
-  font-size: 181%;
+  font-size: 180%;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
