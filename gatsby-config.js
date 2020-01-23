@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    name: `Lolcat Ventures`,
+    name: `Product People`,
     title: `Build Great Products`,
-    date: `hello@lolcat.io`,
+    date: `hello@getproductpeople.com`,
   },
   plugins: [
     `gatsby-plugin-layout`,
