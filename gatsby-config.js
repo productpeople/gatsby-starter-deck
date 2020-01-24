@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     name: `Product People`,
-    title: `Build Great Products`,
+    title: ``,
     date: `hello@getproductpeople.com`,
   },
   plugins: [
